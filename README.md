@@ -1,4 +1,4 @@
-# Bottomless-Twitter-Sentiment-Analysi
+# Bottomless-Twitter-Sentiment-Analysis
 This is a mini project that helps us understand the overall online impression of the brand 'Bottomless' on Twitter based on tweets by users.
 
 ##Basics
